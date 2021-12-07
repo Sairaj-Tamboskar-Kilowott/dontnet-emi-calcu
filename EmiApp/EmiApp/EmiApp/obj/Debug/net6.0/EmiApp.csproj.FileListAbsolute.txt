@@ -1,0 +1,12 @@
+E:\AA KILOWOTT\EmiApp\EmiApp\EmiApp\bin\Debug\net6.0\EmiApp.deps.json
+E:\AA KILOWOTT\EmiApp\EmiApp\EmiApp\bin\Debug\net6.0\EmiApp.dll
+E:\AA KILOWOTT\EmiApp\EmiApp\EmiApp\bin\Debug\net6.0\ref\EmiApp.dll
+E:\AA KILOWOTT\EmiApp\EmiApp\EmiApp\bin\Debug\net6.0\EmiApp.pdb
+E:\AA KILOWOTT\EmiApp\EmiApp\EmiApp\obj\Debug\net6.0\EmiApp.csproj.AssemblyReference.cache
+E:\AA KILOWOTT\EmiApp\EmiApp\EmiApp\obj\Debug\net6.0\EmiApp.GeneratedMSBuildEditorConfig.editorconfig
+E:\AA KILOWOTT\EmiApp\EmiApp\EmiApp\obj\Debug\net6.0\EmiApp.AssemblyInfoInputs.cache
+E:\AA KILOWOTT\EmiApp\EmiApp\EmiApp\obj\Debug\net6.0\EmiApp.AssemblyInfo.cs
+E:\AA KILOWOTT\EmiApp\EmiApp\EmiApp\obj\Debug\net6.0\EmiApp.csproj.CoreCompileInputs.cache
+E:\AA KILOWOTT\EmiApp\EmiApp\EmiApp\obj\Debug\net6.0\EmiApp.dll
+E:\AA KILOWOTT\EmiApp\EmiApp\EmiApp\obj\Debug\net6.0\ref\EmiApp.dll
+E:\AA KILOWOTT\EmiApp\EmiApp\EmiApp\obj\Debug\net6.0\EmiApp.pdb
